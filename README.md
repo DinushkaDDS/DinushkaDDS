@@ -8,7 +8,7 @@ The repositories in my account do not have good readme files, because I did thos
 
 
 <!-- - 🔭 I’m currently working on --> 
-- 🌱 I’m currently learning -->MLops and Production ML Systems
+- 🌱 I’m currently learning --> Pytorch/ and Production ML Systems
 <!-- 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...  -->
