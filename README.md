@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Dilan Dinushka from Sri Lanka. I am currently working as a software engineer in Virtusa pvt. ltd. In this role I do various tasks related to ML/DL and Chatbots. More I work in those projects more I realize how much I dont know, so its always an adventure! 😅
+I am Dilan Dinushka!. I am currently working as a software engineer in Virtusa pvt. ltd. In this role I do various tasks related to ML/DL and Chatbots. More I work in those projects more I realize how much I dont know, so its always an adventure! 😅
 
 I am interested in learning almost any computer science related subjects, but specially like applications of ML/DL and Distributed systems/ architectures. Simply put I like to learn about systems/algorithms and challenges which involve handling/analyzing large amount of data.
 
@@ -8,7 +8,7 @@ The repositories in my account do not have good readme files, because I did thos
 
 
 <!-- - 🔭 I’m currently working on --> 
-- 🌱 I’m currently learning --> Pytorch/ and Production ML Systems
+- 🌱 I’m currently learning --> Transformers Architecture for NLP
 <!-- 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...  -->
