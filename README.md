@@ -8,7 +8,7 @@ The repositories in my account do not have good readme files, because I did thos
 
 
 <!-- - 🔭 I’m currently working on --> 
-- 🌱 I’m currently learning --> DL for Computer Vision
+- 🌱 I’m currently learning --> DL for Computer Vision, Computer Graphics
 <!-- 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...  -->
