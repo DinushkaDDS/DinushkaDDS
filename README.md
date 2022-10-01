@@ -14,7 +14,7 @@ The repositories in my account do not have good readme files, because I did thos
 - 😄 Pronouns: ...  -->
 
 >  I would love to collaborate on any project related to above mentioned areas. <br>
->  👯 Drop me a mail at `dds[dot]dinushka[at]outlook[dot]com`.
+>  👯 Drop me a mail at `dds.dinushka@gmail.com`.
 
 ### ⚡ Facts about me:
 
