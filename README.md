@@ -6,7 +6,7 @@ I am interested in learning almost any computer science related subjects, but sp
 
 
 <!-- - 🔭 I’m currently working on --> 
-- 🌱 I’m currently learning --> DL for Computer Vision, Computer Graphics
+- 🌱 I’m currently learning --> Representations for structured data (tree like data structures) and other related concepts.
 <!-- 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...  -->
